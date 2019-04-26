@@ -4,4 +4,4 @@
 
 |id|title|
 |:---:|:---:|
-|0001|[log模块](https://github.com/lyx003288/linux/blob/master/0001.find.sh)|
+|0001|[log模块](https://github.com/lyx003288/python/blob/master/0001.log.py)|
